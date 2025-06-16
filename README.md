@@ -9,3 +9,7 @@ El sistema está compuesto por:
 - Dashboard personalizado.
 - Gestión de una entidad mediante CRUD.
 - Persistencia de datos usando archivo ".json"
+
+
+
+![FunnyCatsMemeGIF](https://github.com/user-attachments/assets/f840c0bb-e0e6-4349-9d87-f95749bee278)

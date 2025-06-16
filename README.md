@@ -1,6 +1,6 @@
 # Sistema Web Básico con Gestión de Usuarios
 
-Este proyecto es un sistema web sencillo desarrollado en **PHP**, que permite el **inicio de sesión de usuarios**, la **gestión de permisos mediante roles**, y la implementación de un **CRUD** (Crear, Leer, Actualizar, Eliminar) sobre una entidad (por ejemplo, productos o tareas).
+Este proyecto es un sistema web sencillo desarrollado en **PHP**, que permite el **inicio de sesión de usuarios**, esta  pequeña pagina web esta diseñada con los archivos README.md, dashboard.html, index.html,register.html,script.js,style.css
 
 El sistema está compuesto por:
 
@@ -8,4 +8,4 @@ El sistema está compuesto por:
 - Control de accesos según el rol del usuario (Administrador / Usuario).
 - Dashboard personalizado.
 - Gestión de una entidad mediante CRUD.
-- Persistencia de datos usando archivo `.json` o base de datos SQ
+- Persistencia de datos usando archivo ".json"
